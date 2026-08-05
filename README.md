@@ -40,7 +40,7 @@ Although quantitative metrics (Perplexity and Log-Likelihood) supported Gibbs sa
 | :--- | :--- |
 | **Topic 1: Cabin Class & Seating Experience** | Premium passengers in International Business and Club Europe expressed frustration over cramped seating and limited legroom comparable to Economy despite higher fares. |
 | **Topic 2: Service Quality Decline** | Frequent flyers on long-haul routes via London Heathrow expressed disappointment with cost-cutting measures, citing added fees for previously complimentary perks (snacks, checked bags, seat selection). |
-| **Topic 3: Inconsistent Meal Services** | Reviews highlighted inconsistency in cabin crew service, particularly mixed-fleet teams - 0with complaints regarding unfulfilled beverage/meal requests and unaccommodating attitudes. |
+| **Topic 3: Inconsistent Meal Services** | Reviews highlighted inconsistency in cabin crew service, particularly mixed-fleet teams - with complaints regarding unfulfilled beverage/meal requests and unaccommodating attitudes. |
 | **Topic 4: Customer Support & Rebooking** | Passengers reported long hold times and inadequate updates from customer support when trying to resolve flight delays, cancellations, or rebookings. |
 | **Topic 5: New Aircraft Experience** | Captured positive feedback on modern fleet flights, emphasising high food quality, professional staff, noise-cancelling headphones, and robust in-flight entertainment. |
 | **Topic 6: Operations & Punctuality** | Operational pain points included flight delays, baggage issues, overcrowded terminals, and slow boarding procedures—notably at hubs like London Gatwick. |
@@ -59,11 +59,11 @@ Although quantitative metrics (Perplexity and Log-Likelihood) supported Gibbs sa
 1. **Reinforce Fleet Strengths:** Leverage high satisfaction around modern aircraft (Topic 5) in marketing campaigns while accelerating fleet retrofits on older long-haul routes.
 2. **Protect Premium Brand Equity:** Re-evaluate seating ergonomics and restore value-added perks for business class and frequent flyers to prevent customer attrition (Topics 1 & 2).
 3. **Standardise Cabin Crew Training:** Mitigate service variability across mixed-fleet teams through refreshed training programmes on attentiveness and meal service reliability (Topic 3).
-4. **Modernise Ground Operations:** Invest in automated delay notifications and digital self-service tools to relieve airport bottlenecks and reduce customer support wait times (Topics 4 & 6).
+4. **Automate and Digitalise Ground Operations:** Invest in automated delay notifications and digital self-service tools to relieve airport bottlenecks and reduce customer support wait times (Topics 4 & 6).
 
 ---
 
-## Tech Stack & Dependencies
+## Tech Stack
 
 * **Language:** R
 * **Core Libraries:**
@@ -76,5 +76,5 @@ Although quantitative metrics (Perplexity and Log-Likelihood) supported Gibbs sa
 
 ## Learning & Feedback
 
-As I am building my skills in data science through my studies, I would really appreciate any feedback, suggestions, or advice on how I can improve this project or my code!
+As I am building my skills in data science, I would really appreciate any feedback, suggestions, or advice on how I can improve this project!
 
